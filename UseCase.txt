@@ -1,0 +1,37 @@
+HOD:(90% done)
+0. Manage Alumni Data: (ADD/REMOVE/Remove Alumni Profiles) :Done
+1.Import user database from exel/ (other format ):Done
+2.filter,search and export user database exel/(other format):Done
+3.Search in user database:Done
+4.Commnunicate with users (alumni/student/staff) :Method (email/other methods):Email is done
+5.POST on website: done  
+6.Create groups on website of specific user (to send users specific information)
+7.Sort by clicking on fields (on admin page) :Done
+8.View Reports:Generate reports :Statics , Graphs ,based on the user data etc(Mostliy it is frontned work) 
+9.Chat with alumni /student 
+10.Alumni Benifit Section (POST )
+
+-------------------------------------------------------------------------------------------------
+Communication with the alumni/student/staff :Throught linkedin / email / contact etc and not on the own website  for message data storeage .
+--------------------------------------------------------------------------------------------------
+Question : should we allow students to see all data of the alumni ? 
+(my opinion : linkein data is enough )
+if student want more data then he may request to the hod for that on the website 
+hod will allow 
+
+
+Student:
+login/signup
+0.Update Personal Information (Personal page):
+1.Search , Filter alumnis , based on various parameter and View Alumni Profiles:
+2.Request Interaction:Send messages or requests to alumni for advice, mentorship, or networking opportunities. : Redired on the linkedin for messages or requests to alumni
+3.Follow alumni
+4.Post Resume on portfolio
+5.View Alumni Profiles : Redirected to the linkein profile after  clicking to the linkein link 
+6.See the Internship/Job section :see all post related to the job / internship posted by the HOD /alumni etc 
+7.Post on Current website  (just like linkein): But it can be data expencive 
+9.Get notification about the alumni event: make another tab
+10. 
+
+
+Alumni:
